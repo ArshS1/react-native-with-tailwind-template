@@ -6,6 +6,7 @@
 ```jsx
 # using npm
 npm i -g expo-cli
+
 or
 
 #using yarn
