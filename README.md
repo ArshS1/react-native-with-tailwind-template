@@ -24,7 +24,7 @@ expo start
 ```
 
 # Enjoy the template
-![IMG_CF6FF4D9F19A-1](https://user-images.githubusercontent.com/90710790/174464704-617a0299-b003-4106-ab64-1fbe1340a6ff.jpeg)
+![IMG_CF6FF4D9F19A-1](https://user-images.githubusercontent.com/90710790/174464704-617a0299-b003-4106-ab64-1fbe1340a6ff.jpeg | width=100)
 
 
 
