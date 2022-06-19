@@ -24,6 +24,6 @@ expo start
 ```
 
 # Enjoy the template
-<img src="https://postimg.cc/87ScwZ8X" width="48">
+<img src="https://i.postimg.cc/cLK3xzFW/IMG-CF6-FF4-D9-F19-A-1.jpg" width="48">
 
 
