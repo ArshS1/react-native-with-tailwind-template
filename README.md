@@ -4,8 +4,11 @@
 
 ### Ensure that expo is setup on local system:
 ```jsx
+# using npm
 npm i -g expo-cli
 or
+
+#using yarn
 yarn add expo-cli
 ```
 
