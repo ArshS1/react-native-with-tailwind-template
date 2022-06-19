@@ -18,12 +18,12 @@ yarn add expo-cli
 git clone https://github.com/ArshS1/react-native-with-tailwind-template.git [your-app-name]
 ```
 
-### Start expo by running: 
+### Start expo by running and starting iOS/Android simulator: 
 ```jsx
 expo start
 ```
 
 # Enjoy the template
+<img src="https://postimg.cc/87ScwZ8X" width="48">
 
-https://postimg.cc/87ScwZ8X
 
