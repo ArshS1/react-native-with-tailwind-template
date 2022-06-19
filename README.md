@@ -1,4 +1,4 @@
-# Tailwind React Native Classnames 🏄‍♂️
+# Template with React Native + Tailwind + Expo
 
 > A simple, expressive API for TailwindCSS + React Native, written in TypeScript
 
